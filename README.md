@@ -1,6 +1,7 @@
 # 2017CUMCM-D
 2017年的建模竞赛做的D题前景提取，提取**动态背景**，**运动摄像机**的前景效果都还不错
 
+![](https://raw.githubusercontent.com/Loganzzz/2017CUMCM-D/master/%E8%A7%86%E9%A2%91%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/%E7%BB%93%E6%9E%9C%E5%88%86%E6%9E%90%E6%B1%87%E6%80%BB/out.jpg)
 
 ###主要方法###
 
